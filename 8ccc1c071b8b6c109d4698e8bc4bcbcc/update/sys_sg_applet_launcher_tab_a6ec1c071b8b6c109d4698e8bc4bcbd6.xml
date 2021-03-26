@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
     <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
         <active>true</active>
-        <applet_launcher display_value="Haas Mobile VCS">a6ec1c071b8b6c109d4698e8bc4bcbd5</applet_launcher>
+        <applet_launcher display_value="Haas Mobile VCSssss">a6ec1c071b8b6c109d4698e8bc4bcbd5</applet_launcher>
         <icon display_value="Home Haas Mobile VCS">e6ec1c071b8b6c109d4698e8bc4bcbd6</icon>
         <label>Haas Mobile VCS</label>
         <roles>x_cross_haas_mobil.user,x_cross_haas_mobil.admin</roles>

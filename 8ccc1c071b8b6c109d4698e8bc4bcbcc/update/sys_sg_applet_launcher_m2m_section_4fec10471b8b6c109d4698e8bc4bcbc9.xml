@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
-        <applet_launcher display_value="Haas Mobile VCS">a6ec1c071b8b6c109d4698e8bc4bcbd5</applet_launcher>
+        <applet_launcher display_value="Haas Mobile VCSssss">a6ec1c071b8b6c109d4698e8bc4bcbd5</applet_launcher>
         <order/>
         <section display_value="Incident">8bec10471b8b6c109d4698e8bc4bcbc8</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
