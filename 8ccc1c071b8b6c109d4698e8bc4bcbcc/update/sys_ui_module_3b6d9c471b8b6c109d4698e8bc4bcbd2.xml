@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Haas Task">fb6d9c471b8b6c109d4698e8bc4bcbcf</application>
+        <filter/>
+        <name>Haas Tasks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_cross_haas_mobil.haas_task_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>chris.haas@snc</sys_created_by>
+        <sys_created_on>2021-03-26 16:19:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3b6d9c471b8b6c109d4698e8bc4bcbd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Haas Tasks</sys_name>
+        <sys_package display_value="Haas Mobile VCS" source="x_cross_haas_mobil">8ccc1c071b8b6c109d4698e8bc4bcbcc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Haas Mobile VCS">8ccc1c071b8b6c109d4698e8bc4bcbcc</sys_scope>
+        <sys_update_name>sys_ui_module_3b6d9c471b8b6c109d4698e8bc4bcbd2</sys_update_name>
+        <sys_updated_by>chris.haas@snc</sys_updated_by>
+        <sys_updated_on>2021-03-26 16:19:29</sys_updated_on>
+        <table>x_cross_haas_mobil_haas_task</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
