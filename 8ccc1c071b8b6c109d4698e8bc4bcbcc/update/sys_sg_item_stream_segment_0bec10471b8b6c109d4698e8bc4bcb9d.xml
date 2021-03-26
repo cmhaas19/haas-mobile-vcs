@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Incident Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Incidents">4fec10471b8b6c109d4698e8bc4bcb9a</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>chris.haas@snc</sys_created_by>
+        <sys_created_on>2021-03-26 16:17:15</sys_created_on>
+        <sys_id>0bec10471b8b6c109d4698e8bc4bcb9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Item Stream Segment</sys_name>
+        <sys_package display_value="Haas Mobile VCS" source="x_cross_haas_mobil">8ccc1c071b8b6c109d4698e8bc4bcbcc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Haas Mobile VCS">8ccc1c071b8b6c109d4698e8bc4bcbcc</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_0bec10471b8b6c109d4698e8bc4bcb9d</sys_update_name>
+        <sys_updated_by>chris.haas@snc</sys_updated_by>
+        <sys_updated_on>2021-03-26 16:17:15</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>
